@@ -1,7 +1,7 @@
-# SchoolRide - Smart Transport Manager 
+# School Route Mate - Smart Transport Manager 
 
 ## Project Domain
-SchoolRide is a mobile-first SaaS solution designed for the unorganized school transport sector (private vans/autos) in India.
+SchoolRouteMate is a mobile-first SaaS solution designed for the unorganized school transport sector (private vans/autos) in India.
 
 ### The Problem 
 * **Safety Anxiety:** Parents call drivers constantly for "Where are you?" updates.
